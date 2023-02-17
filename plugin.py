@@ -3,7 +3,7 @@
 #           Author:     DCRM, 2023
 #
 """
-<plugin key="Slsys" name="SLS gateway" author="DCRM" version="1.0.0" wikilink="https://github.com/slsys/Gateway" externallink="https://github.com/william-aqn/slsys-domoticz">
+<plugin key="Slsys" name="SLS gateway" author="DCRM" version="1.0.0" wikilink="https://github.com/slsys/Gateway/blob/master/README_rus.md" externallink="https://github.com/william-aqn/slsys-domoticz">
     <params>
         <param field="Address" label="IP Address" width="200px" required="true" default="192.168.1.20"/>
         <param field="Port" label="Port" width="30px" required="true" default="80"/>

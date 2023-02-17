@@ -1,4 +1,4 @@
-# [SLS gateway](https://github.com/slsys/Gateway) Domoticz plugin
+# [SLS gateway](https://github.com/slsys/Gateway/blob/master/README_rus.md) Domoticz plugin
 * Pause/Play
 * Select radio station
 * Volume level control / Mute
