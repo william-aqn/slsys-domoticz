@@ -1,4 +1,9 @@
 # SLS gateway Domoticz plugin
+* Pause/Play
+* Select radio station
+* Volume level control / Mute
+* Reboot SLS
+
 ![Settings](/assets/devices.png)
 
 # Installation
