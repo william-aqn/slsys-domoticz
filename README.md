@@ -21,7 +21,7 @@ Restart Domoticz
 * Fill radio urls separated `|` symbol
 ![Settings](/assets/settings.png)
 
-## Update
+# Update
 ```
 cd YOUR_DOMOTICZ_PATH/plugins/slsys-domoticz
 git pull
